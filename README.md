@@ -1,2 +1,2 @@
 # Mini-Project
-Tourist Assistant
+Complete Tourist Assistant
